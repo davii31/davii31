@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Hoje eu estudo programação 
+- 🔭 Estudando Java
 - 😄 Pronouns:Ele/dele
 - ⚡ Fun fact: Jogo Valorant
 
